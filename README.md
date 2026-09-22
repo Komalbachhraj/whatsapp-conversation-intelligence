@@ -1,6 +1,6 @@
 # WhatsApp Conversation Intelligence System
 
-🚀 **Live Demo:** [Open the deployed app]([https://your-app.streamlit.app/](https://whatsapp-conversation-intelligence-epshvdv9oaacl6wpvxxvvj.streamlit.app/))
+🚀 **Live Demo:** [Open the deployed app](https://whatsapp-conversation-intelligence-epshvdv9oaacl6wpvxxvvj.streamlit.app/)
 
 
 
