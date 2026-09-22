@@ -1,0 +1,24 @@
+# Virtual environment
+.venv/
+venv/
+env/
+
+# PyCharm
+.idea/
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Agents
+.agents/
+
+# Environment files
+.env
+
+# Streamlit
+.streamlit/secrets.toml
+
+# Private WhatsApp chat files
+*_chat.txt
+whatsapp_chat.txt
